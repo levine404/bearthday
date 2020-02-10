@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateDisplay renders 1`] = `
+<input
+  onChange={[Function]}
+  placeholder="test"
+  type="number"
+  value={2016-01-03T05:00:00.000Z}
+/>
+`;
